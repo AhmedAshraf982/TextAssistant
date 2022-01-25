@@ -1,7 +1,6 @@
 /*
 driver code to run the project
-there are two input options are available 1) reading from file 2) pasting on console
-    
+there are two input options are available 1) reading from file 2) pasting on console  
 */
 
 #include "Summarizer.h"
